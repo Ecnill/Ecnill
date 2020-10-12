@@ -1,16 +1,23 @@
-### Hi there 👋
+![The image is opened](doc/mandelbrot-set.jpeg)
 
-<!--
-**Ecnill/Ecnill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Greetings! 👋 
+My name is Julia and I'm a Software Engineer living in 🇨🇿. 
 
-Here are some ideas to get you started:
+### I'm interested in
+* Advanced Software architectures 
+* Android 💚 with Kotlin
+* 📱 development in general
+* Writing scripts and automating every-day tasks
+* Computer graphics
+* UX design
+* Mentoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack 🛠
+I mainly develop in Kotlin and sometimes Java. I'm also familiar with Python and Shell scripting, C++, Swift.
+
+## 📫 Let's get in touch
+- Twitter: [twitter.com/ecnill][1]
+- Linkedin: [https://www.linkedin.com/in/julia-ostrokomorets/][2]
+
+[1]: https://twitter.com/ecnill
+[2]: https://www.linkedin.com/in/julia-ostrokomorets/
